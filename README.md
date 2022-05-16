@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PuttapakaSaikrishna
-- 👀 I’m interested in ...Data analytics and Data science projects
+- 👀 I’m interested in ...Coding 
 - 🌱 I’m currently learning ...Real time projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
