@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PuttapakaSaikrishna
-- 🖥️ I'm Full Stack Java Developer
+- 🖥️ I'm Full Stack Developer
 - 👀 I’m interested in ...Coding 
-- 🌱 I’m currently learning ...Real time projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 skrishna694@gmail.com
